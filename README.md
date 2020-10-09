@@ -1,2 +1,3 @@
 # hello-world
-THis repository is part of a tutorial
+This repository is part of a tutorial
+Solution Architect trying to keep skills tight.
